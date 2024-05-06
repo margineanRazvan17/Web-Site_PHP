@@ -268,6 +268,50 @@ button:hover{
     background-color: #411212;
 }
 
+
+/*********Worst CSS in the history"*****************/
+
+
 .habarnuamcefacaici{
-    background-color: #699053;
+    background-color: rgba(45, 38, 38, 0.7);
 }
+
+.content_wrap{
+    
+    
+    margin:0 auto;
+    width: 80%;    
+}
+
+.custom_header_wrap{
+    position: relative;
+    width: 100%;
+    margin-bottom: 3.5em;
+    -webkit-border-radius: 5px !important;
+    -moz-border-radius: 5px !important;
+    border-radius: 5px !important;
+    overflow: hidden;
+    
+}
+
+.custom_header_wrap .header_content_wrap {
+    z-index: 2;
+    position: relative;
+    text-align: center;
+    padding: 4.23em 5em 4.23em 5em;
+    
+}
+
+.title_header,h2{
+    font-size: 3.3077em;
+    color: #ffffff;
+}
+
+
+/*
+@media (min-width: 1263px) and (max-width: 1532px) {
+    .slider_boxed, .content_wrap, .content_container {
+        width: 1440px;
+    }
+}
+*/

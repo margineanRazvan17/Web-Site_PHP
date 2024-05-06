@@ -16,9 +16,25 @@
     <title>Stiluri antrenamente</title>
 </head>
 <div class = "habarnuamcefacaici" >
-      
     <?php $page = 'stiluri';include 'include/header.php'; ?>
-   <h1>stiluri<h1>
+    <div class = 'page_content_wrap'>
+        <div class = 'content_wrap'>
+            <div class = 'custom_header_wrap'>
+                <!-- style="background-image: url(style/background.jpg);" -->
+                <div class="single_custom_header">
+                    <a>single custom header</a>
+                </div>
+                <div class = 'header_content_wrap'>
+                    <h2 class="title_header">Even if You Fall on Your Face, You’re Still Moving Forward.</h2>
+                    <h6 class="slogan_header">slogan</h6>
+                </div>
+            </div>
+            <h1>zona de articole</h1>
+            <article>TEst</article>
+        </div>
+
+        
+    </div>
 
 </div>
 </html>
