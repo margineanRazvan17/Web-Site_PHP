@@ -28,9 +28,29 @@
                     <h2 class="title_header">Even if You Fall on Your Face, You’re Still Moving Forward.</h2>
                     <h6 class="slogan_header">slogan</h6>
                 </div>
+                    <h3 class="sc_title sc_title_regular" style="margin-bottom:1em;"><p></p>
+                    <p style="text-align: center;">Stiluri de lupta la MMA Transilvania Cluj-Napoca</p>
+                    <p></p></h3>
             </div>
-            <h1>zona de articole</h1>
-            <article>TEst</article>
+
+            <div class = "content"> 
+                <section class = "post content">
+                    <h3 class = 'sc_content content_wrap'> 
+                        <h6 class = 'sc_item_subtitle'>MMA TRANSILVANIA</h6>
+                        <p></p>
+                        <p><h3 class = "sc_item_title">STILURI DE LUPTA<h3></p>
+                        <p></p>
+                    </h3>
+                    <div class="filters_post_content">
+                        <a href="#" class="theme_button active">All</a>
+                        <a href="#" class="theme_button">Autoaparare Copii</a>
+                        <a href="#" class="theme_button">Kickboxing Style</a>
+                        <a href="#" class="theme_button">MMA - Arte Martiale Mixte</a>
+                    </div>
+                </section>
+            </div>
+
+
         </div>
 
         
